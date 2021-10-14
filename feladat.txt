@@ -1,0 +1,10 @@
+Mind a két oldal háttérszíne darkblue (#00008B vagy 139 kódú szín). A címek, az egyikben "Örömóda", a másikban "Örömóda (részlet)", egyes szintű címsor legyen fehér színnel. A böngésző keretén megjelenő cím "Európai himnusz", illetve "A himnusz szövege".
+Az oldalak további részét 1 sorból és 2 oszlopból álló, keret nélküli, wheat (#F5DEB3 vagy 16113331 kódú) háttérszínű táblázat adja. A cellák kerete ne látszódjon és a szöveg a cellák szélétől 5 pontnyira legyen!
+A szoveg.html-ben a táblázat az ablak szélességének 60%-a és középre igazított legyen!
+A baloldali cellába a schiller.jpg képet, a jobb oldaliba a reszlet.txt állomány szövegét, az Örömóda első két versszakát helyezze!
+Az euhimnusz.html-ben a táblázat az ablak szélességének 90%-át töltse ki, és középre igazított legyen!
+A bal oldali cellába a beethoven.gif képet, a jobb oldaliba az oda.txt szövegét helyezze!
+A szöveg idézet, ezért a forrás címét ("Hangversenykalauz") igazítsa jobbra!
+A "Schiller szavaira" kifejezést alakítsa linkké, amely a szoveg.html-re mutasson!
+
+http://info.berzsenyi.hu/halozatok/html-feladatok/himnusz
